@@ -1,0 +1,13 @@
+.movie {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 100px;
+}
+.filter {
+  text-align: end;
+}
+.style1 {
+  text-align: end;
+}
